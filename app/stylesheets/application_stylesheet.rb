@@ -37,4 +37,6 @@ class ApplicationStylesheet < RubyMotionQuery::Stylesheet
     st.color = color.black
   end
 
+  def label(st)
+  end
 end
